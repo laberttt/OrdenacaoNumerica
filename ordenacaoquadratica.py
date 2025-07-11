@@ -73,5 +73,4 @@ for file in testes:
     testeAlgoritmo(file)
 
 
-#OBS:
-#Os testes estão executados no arquivo .ipynb enviado junto ao link do repositório
+#Os testes estão executados no arquivo .ipynb
